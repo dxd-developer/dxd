@@ -1,5 +1,5 @@
 {
 "resultDesc":[{"monitor":"kamran.test", "issue": "1", "frequency":"1", "upload_freq":"1"},
-              {"monitor":"kamran.test.karak", "issue": "1", "frequency":"1", "upload_freq":"1"},
+              {"monitor":"kamran.test.karak", "issue": "1", "frequency":"2", "upload_freq":"2"},
              {"monitor":"Hina.Ali", "issue": "1", "frequency":"5", "upload_freq":"4"}]
 }
