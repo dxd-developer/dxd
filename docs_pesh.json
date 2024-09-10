@@ -1,4 +1,4 @@
 {
-"docs_pesh":[{"name":"Dr. Abid Salahuddin", "speciality":"Pediatrician"},
-             {"name":"Dr. Naveed Anwar", "speciality":"Gastroentologist"}]
+"docs_pesh":[{"name":"Dr. Abid Salahuddin", "speciality":"Pediatrician", "hospital":"P.G.H"},
+             {"name":"Dr. Naveed Anwar", "speciality":"Gastroentologist", "hospital":"P.G.H"}]
 }
