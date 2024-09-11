@@ -1,4 +1,4 @@
 {
-"docs_pesh":[{"name":"Dr. Abid Salahuddin", "speciality":"Pediatrician", "hospital":"P.G.H"},
-             {"name":"Dr. Naveed Anwar", "speciality":"Gastroentologist", "hospital":"P.G.H"}]
+"docs_pesh":[{"name":"Dr. Abid Salahuddin", "speciality":"Pediatrician", "hospital":"P.G.H", "img": "https://github.com/dxd-developer/dxd/blob/c78a172a7a15e340e651835ada0e6c2a91e3e6af/pics/abid_salahuddin_pedriatician.jpg"},
+             {"name":"Dr. Naveed Anwar", "speciality":"Gastroentologist", "hospital":"P.G.H", "img" : "https://github.com/dxd-developer/dxd/blob/d4aa4a0fa1a0771eb19f3f7ae50ce3c4c2cc0d89/pics/naveed_anwar_gastroentologist.jpg"}]
 }
