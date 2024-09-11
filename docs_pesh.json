@@ -1,4 +1,8 @@
 {
-  "version": 1,"docs_pesh":[{"id": 0,  "name":"Dr. Abid Salahuddin", "speciality":"Pediatrician", "hospital":"P.G.H", "img": "https://raw.githubusercontent.com/dxd-developer/dxd/c78a172a7a15e340e651835ada0e6c2a91e3e6af/pics/abid_salahuddin_pedriatician.jpg"},
-             {"id": 1, "name":"Dr. Naveed Anwar", "speciality":"Gastroentologist", "hospital":"P.G.H", "img" : "https://raw.githubusercontent.com/dxd-developer/dxd/main/pics/naveed_anwar_gastroentologist.jpg"}]
+  "version": 1,"docs_pesh":[{"id": 0,  "name":"Dr. Abid Salahuddin", "speciality":"Pediatrician", "hospital":"P.G.H",
+    "about": "He aced his Royal College exams and gained extensive experience across various pediatric fields, including critical care for newborns and children. Training at prestigious institutions like University College London solidified his expertise in neonatal care and pediatric emergencies.",
+    "img": "https://raw.githubusercontent.com/dxd-developer/dxd/c78a172a7a15e340e651835ada0e6c2a91e3e6af/pics/abid_salahuddin_pedriatician.jpg"},
+             {"id": 1, "name":"Dr. Naveed Anwar", "speciality":"Gastroentologist", "hospital":"P.G.H", 
+               "about" : "Dr. Naveed Anwar (KMC '99) honed his medical skills before specializing in gastroenterology via PLAB and prestigious UK programs. He gained experience across various NHS trusts and returned to Pakistan in 2011.",
+               "img" : "https://raw.githubusercontent.com/dxd-developer/dxd/main/pics/naveed_anwar_gastroentologist.jpg"}]
 }
