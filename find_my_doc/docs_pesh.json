@@ -1,8 +1,8 @@
 {
   "version": 1,"docs":[{"id": 1,  "name":"Dr. Abid Salahuddin", "speciality":"Pediatrician", "hospital":"P.G.H", "qualification": "MRCP (UK)",
     "about": "He aced his Royal College exams and gained extensive experience across various pediatric fields, including critical care for newborns and children. ",
-    "contact": "009291111111091"},
+    "contact": "+9291111111091"},
              {"id": 2, "name":"Dr. Naveed Anwar", "speciality":"Gastroentologist", "hospital":"P.G.H", "qualification": "PLAB (UK)",
                "about" : "Dr. Naveed Anwar (KMC '99) honed his medical skills before specializing in gastroenterology via PLAB and prestigious UK programs. ",
-               "contact": "009291111111091"}]
+               "contact": "+9291111111091"}]
 }
