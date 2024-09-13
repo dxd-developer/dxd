@@ -1,5 +1,5 @@
 {
-  "version": 1,"docs_isb":[{"id": 1,  "name":"Dr. Hadi Mohammad Khan", "speciality":"General Surgeon", "hospital":"Shifa Internation Hospital", "qualification": "MD (US)",
+  "version": 1,"docs":[{"id": 1,  "name":"Dr. Hadi Mohammad Khan", "speciality":"General Surgeon", "hospital":"Shifa Internation Hospital", "qualification": "MD (US)",
     "about": "Dr. Hadi graduated from Aga Khan University Hospital, Karachi. He completed his residency from University of New Mexico, USA and a Fellow Surgical Oncology at Boston University, USA. and is currently working as Consultant General Surgeon at Shifa International Hospitals Ltd., Islamabad.",
     "contact": "0092518464646"},
              {"id": 2, "name":"Dr. Ghulam Siddique", "speciality":"General Surgeon", "hospital":"Shifa Internation Hospital", "qualification": "FRCS (UK)",
