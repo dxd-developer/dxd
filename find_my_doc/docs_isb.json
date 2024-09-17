@@ -1,9 +1,21 @@
 {
   "version": 1,"docs":[
-    {"id": 1,  "name":"Dr. Hadi Mohammad Khan", "speciality":"General Surgeon", "hospital":"Shifa International Hospital", "qualification": "MBBS, MD, FACS, DABGM (USA), DABSO(USA)",
-    "about": "Dr. Hadi graduated from Aga Khan University Hospital, Karachi. He completed his residency from University of New Mexico, USA and a Fellow Surgical Oncology at Boston University, USA. and is currently working as Consultant General Surgeon at Shifa International Hospitals Ltd., Islamabad.", "contact": "+92518464646"},
-  {"id": 2, "name":"Dr. Ghulam Siddique", "speciality":"General Surgeon", "hospital":"Shifa International Hospital", "qualification": "MBBS, FRCS (UK)",
+    {"id": 1,  "name":"Dr. Hadi Mohammad Khan", 
+      "speciality":"General Surgeon", 
+      "hospital":"Shifa International Hospital", 
+      "qualification": "MBBS, MD, FACS, DABGM (USA), DABSO(USA)",
+    "about": "Dr. Hadi graduated from Aga Khan University Hospital, Karachi. He completed his residency from University of New Mexico, USA and a Fellow Surgical Oncology at Boston University, USA. and is currently working as Consultant General Surgeon at Shifa International Hospitals Ltd., Islamabad.", 
+      "contact": "+92518464646"},
+  {"id": 2, 
+    "name":"Dr. Ghulam Siddique", 
+    "speciality":"General Surgeon", 
+    "hospital":"Shifa International Hospital", 
+    "qualification": "MBBS, FRCS (UK)",
                "about" : "Having graduated from Khyber Medical College , Peshawar, he completed his residency from Glasgow Royal Infirmary, University Hospital, Wales. Dr. Siddiq has decades of experience in his field and currently serving as Chief of Surgery / Consultant General Surgeon at Shifa International Hospital, Islamabad.", "contact": "+92518464646"},
-{"id": 3, "name":"Dr. Ejaz Ahmed Khan", "speciality":"Pediatrician", "hospital":"Shifa International Hospital", "qualification": "MBBS, DABP (US), DABID (US)",
+{"id": 3, 
+  "name":"Dr. Ejaz Ahmed Khan", 
+  "speciality":"Pediatrician", 
+  "hospital":"Shifa International Hospital", 
+  "qualification": "MBBS, DABP (US), DABID (US)",
                "about" : "Having graduated from Agha Khan University Medical College, Karachi. He completed his residency from Shanos Teaching Hospital Gaines Ville, FL, USA and is currently serving as Chief of Pediatrics at Shifa International Hospitals, Islamabad.", "contact": "+92518464646"}]
 }
