@@ -14,5 +14,14 @@
                "hospital":"P.G.H",
                "qualification": "PLAB (UK)",
                "about" : "Dr. Naveed Anwar (KMC '99) honed his medical skills before specializing in gastroenterology via PLAB and prestigious UK programs. ",
-               "contact": "+9291111111091"}]
+               "contact": "+9291111111091"},
+     {"id": 3, 
+               "name":"Dr. Momin Salahuddin",
+               "city":"Peshawar",
+               "speciality":"Cardiologist",
+               "hospital":"P.G.H",
+               "qualification": "FRCP (UK)",
+               "about" : "Dr. Momin Salahuddin graduated from Khyber Medical College with honors having achieved merit scholarships in all his professional examinations.",
+               "contact": "+9291111111091"}
+  ]
 }
