@@ -23,5 +23,159 @@
                "qualification": "FRCP (UK)",
                "about" : "Dr. Momin Salahuddin graduated from Khyber Medical College with honors having achieved merit scholarships in all his professional examinations.",
                "contact": "+9291111111091"}
+    ,{"id": 4, 
+               "name":"Dr. Tanveer Shafqat",
+               "city":"Peshawar",
+               "speciality":"Consultant Obstetrician & Gynaecologist",
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Professor Dr. Tanveer Shafqat has started her clinic (9am to 4pm) from Monday to Saturday in Peshawar General Hospital(PGH).",
+               "contact": "+9291111111091"}
+    ,{"id": 5, 
+               "name":"Dr. Akhtar Ali",
+               "city":"Peshawar",
+               "speciality":"Nephrologist",
+               "hospital":"P.G.H",
+               "qualification": "M.B.B.S, MRCP, FRCP",
+               "about" : "Professor Dr. Akhtar Ali, a Peshawar native, excelled academically. He graduated top of his class at Khyber Medical College (1975) and earned "best medical graduate" honors (1975-1981) at Peshawar University.",
+               "contact": "+9291111111091"}
+    ,{"id": 6, 
+               "name":"Dr. A.H. Aamir",
+               "city":"Peshawar",
+               "speciality":"Endocrinologist",
+               "hospital":"P.G.H",
+               "qualification": "MRCP (UK), FRCP (Edin), FACE (US), CCST",
+               "about" : "Prof. A.H.Aamir, a Khyber Medical College graduate with UK-trained expertise in diabetes and endocrinology, leads the Department of Diabetes, Endocrine, and Metabolic Diseases at Hayatabad Medical Complex. ",
+               "contact": "+9291111111091"}
+     ,{"id": 7, 
+               "name":"Dr. A.H. Aamir",
+               "city":"Peshawar",
+               "speciality":"Endocrinologist",
+               "hospital":"P.G.H",
+               "qualification": "MRCP (UK), FRCP (Edin), FACE (US), CCST",
+               "about" : "Prof. A.H.Aamir, a Khyber Medical College graduate with UK-trained expertise in diabetes and endocrinology, leads the Department of Diabetes, Endocrine, and Metabolic Diseases at Hayatabad Medical Complex. ",
+               "contact": "+9291111111091"}
+    ,{"id": 8, 
+               "name":"Dr. Fazia Raza",
+               "city":"Peshawar",
+               "speciality":"Gynecologist",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, FCPS (Pak)",
+               "about" : "Dr. Fazia Raza, a renowned Peshawar gynecologist and obstetrician, leverages her extensive experience to provide expert fertility consultations. Her expertise positions her as a leading figure in Pakistani women's healthcare.",
+               "contact": "+9291111111091"}
+     ,{"id": 9, 
+               "name":"Dr. Mohammad Asim",
+               "city":"Peshawar",
+               "speciality":"Pulmonologist",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, MRCP(UK)",
+               "about" : "Dr. Mohammad Asim, Consultant Pulmonologist at Peshawar General Hospital, specializes in critical care management and COVID patient treatment. His expertise spans Sleep Medicine, Non-Invasive Ventilation, and interventional procedures.",
+               "contact": "+9291111111091"}
+     ,{"id": 10, 
+               "name":"Dr. Khaleeq Ur Rehman",
+               "city":"Peshawar",
+               "speciality":"Orthopaedic Surgeon",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, FRCPS(UK)",
+               "about" : "Prof. Dr. Khaleeq ur Rehman boasts a distinguished career marked by exceptional expertise and unwavering dedication. His journey in Orthopedics began with rigorous training in the United Kingdom, following which he joined RMI in 2007, where he has since made significant contributions to the field.",
+               "contact": "+9291111111091"}
+
+      ,{"id": 11, 
+               "name":"Dr. Samreen Ahmad",
+               "city":"Peshawar",
+               "speciality":"Pediatrician",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, FCPS (Pak)",
+               "about" : "Born in Peshawar in 1972, Dr. Samreen Ahmad graduated from Khyber Medical College in 1996. Following her internship in 1997, she pursued post-graduation in pediatrics from the College of Physicians and Surgeons Pakistan.",
+               "contact": "+9291111111091"}
+
+    ,{"id": 12, 
+               "name":"Dr. Niaz Ali",
+               "city":"Peshawar",
+               "speciality":"Cardiac Surgeon",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, FRCS (UK)",
+               "about" : "Dr. Niaz Ali is a renowned cardiac surgeon in Peshawar, Pakistan. He specializes in treating heart conditions in both adults and children, with a focus on congenital heart defects and corrective surgeries.",
+               "contact": "+9291111111091"}
+
+    ,{"id": 13, 
+               "name":"Dr. Muhammad Usman",
+               "city":"Peshawar",
+               "speciality":"Internal Medicine Specialist",
+               "hospital":"P.G.H",
+               "qualification": "MBBS(KMC), FCPS (Pak)",
+               "about" : "Dr. Muhammad Usman is a distinguished Professor of Medicine at Khyber Girls Medical College and Hayat Abad Medical Complex in Peshawar.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 14, 
+               "name":"Dr. Samina Niaz Khattak",
+               "city":"Peshawar",
+               "speciality":"Psychiatrist",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, MCPS, (Family Medicine), DMCH (US)",
+               "about" : "Dr. Samina Niaz Khattak practices at P.G.H.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 15, 
+               "name":"Dr. M. Junaid Sethi",
+               "city":"Peshawar",
+               "speciality":"Ophthalmologist",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, FCPS, FRCS(UK)",
+               "about" : "Dr. M. Junaid Sethi is a distinguished Ophthalmology consultant at Peshawar General Hospital, renowned for his expertise and dedication to eye care.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 16, 
+               "name":"Dr. Sofia Khan",
+               "city":"Peshawar",
+               "speciality":"Dermatologist",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, MRCGP (CCT, UK), MSc Dermatology (Wales, UK)",
+               "about" : "Dr. Sofia Khan leverages her dual expertise in Family Medicine and Dermatology to provide comprehensive skin care at Peshawar General Hospital.",
+               "contact": "+9291111111091"}
+,{"id": 17, 
+               "name":"Dr. Khalid Mahmood",
+               "city":"Peshawar",
+               "speciality":"Internal Medicine Specialist",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, CPFS (Pak), MRCP(UK)",
+               "about" : "Dr. Khalid Mahmood's medical journey began in 1987 at Khyber Medical College. After his FCPS in 1992, he broadened his experience as a registrar in UK hospitals for three years, earning MRCP certification in 1995.",
+               "contact": "+9291111111091"}
+
+    ,{"id": 18, 
+               "name":"Dr. Nazar Muhammad Afridi",
+               "city":"Peshawar",
+               "speciality":"ENT Surgeon",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, MCPS, DLO, and FCPS",
+               "about" : "Major (R) Prof. Dr. Nazar Muhammad Ayub has established a distinguished career as an ENT specialist, marked by a dedication to patient care, education, and professional development.",
+               "contact": "+9291111111091"}
+     ,{"id": 19, 
+               "name":"Dr. Zakirullah",
+               "city":"Peshawar",
+               "speciality":"ENT Surgeon",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, FCPS and MHPE",
+               "about" : "Dr. Zakirullah, a highly accomplished otolaryngologist (ENT) and head & neck surgeon, to its esteemed team.",
+               "contact": "+9291111111091"}
+
+      ,{"id": 20, 
+               "name":"Dr. Khurshid Ahmad",
+               "city":"Peshawar",
+               "speciality":"General Surgeon",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, FRCS (UK)",
+               "about" : "As a Consultant General Surgeon, Prof. Dr. Khurshid Ahmad specializes in abdominal surgery, with a focus on Laparoscopic and Colorectal procedures. ",
+               "contact": "+9291111111091"}
+
+    ,{"id": 21, 
+               "name":"Dr. Khurshid Ahmad",
+               "city":"Peshawar",
+               "speciality":"General Surgeon",
+               "hospital":"P.G.H",
+               "qualification": "MBBS, FRCS (UK)",
+               "about" : "As a Consultant General Surgeon, Prof. Dr. Khurshid Ahmad specializes in abdominal surgery, with a focus on Laparoscopic and Colorectal procedures. ",
+               "contact": "+9291111111091"}
+    
   ]
 }
