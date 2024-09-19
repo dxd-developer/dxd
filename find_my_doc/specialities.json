@@ -1,1 +1,18 @@
+{
+  "Pediatrician":1,
+"Gastroentologist":2,
+"Cardiologist":3,
+"Gynecologist":4,
+"Nephrologist":5,
+"Endocrinologist":6,
+"Pulmonologist":7,
+"Orthopaedic Surgeon":10,
+"Cardiac Surgeon":11,
+"Internal Medicine Specialist":12,
+"Psychiatrist":13,
+"Ophthalmologist":14,
+"Dermatologist":15,
+"ENT Surgeon":16,
+"General Surgeon":17
 
+}
