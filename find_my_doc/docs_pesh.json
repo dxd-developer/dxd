@@ -180,6 +180,184 @@
                "about" : "As a Consultant General Surgeon, Prof. Dr. Khurshid Ahmad specializes in abdominal surgery, with a focus on Laparoscopic and Colorectal procedures. ",
                "contact": "+9291111111091"}
 
+    ,{"id": 20, 
+               "name":"Dr. Awal Hakeem",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":10,
+               "hospital":"P.G.H",
+               "qualification": "MBBS, FCPS (PAK)",
+               "about" : "Dr. Awal Hakeem is a highly skilled orthopedic and trauma care specialist. With a degree from Peshawar University in 1995 and further training from CPSP in 2006, he now serves as the Program Director (Fellowship) of the Pakistan Orthopedic Association, focusing on joint replacement and trauma management.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 21, 
+               "name":"Dr. Jibran Khan",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":11,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Jibran Khan has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+    ,{"id": 22, 
+               "name":"Dr. Khalid Khanzada",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":8,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Khalid Khanzada has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 23, 
+               "name":"Dr. Mamoona Riffat",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":4,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Mamoona Riffat has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+      ,{"id": 24, 
+               "name":"Dr. Momin Khan Afridi",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":3,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Momin Khan Afridi has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+      ,{"id": 25, 
+               "name":"Dr. Nadeem Khawar",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":1,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Nadeem Khawar has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+      ,{"id": 26, 
+               "name":"Dr. Nasir Islam",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":11,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Nasir Islam has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 27, 
+               "name":"Dr. Abdul Malik",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":11,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Abdul Malik has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 28, 
+               "name":"Dr. Faiz ur Rahman",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":9,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Faiz ur Rahman has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+      ,{"id": 29, 
+               "name":"Dr. Ata ur Rehman",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":17,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Ata ur Rahman has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 30, 
+               "name":"Dr. Shahid Ayub",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":8,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Shahid Ayub has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+     ,{"id": 31, 
+               "name":"Dr. Muhammad Naeem",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":14,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Muhammad Naeem has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+    ,{"id": 32, 
+               "name":"Dr. Saleem Gandapur",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":14,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Saleem Gandapur has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 33, 
+               "name":"Dr. Zahid Askar",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":10,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Zahid Askar has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+    ,{"id": 34, 
+               "name":"Dr. Kifayat",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":18,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Kifayat has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+     ,{"id": 35, 
+               "name":"Dr. Syed Asif Shah",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":19,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Syed Asif Shah has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+    ,{"id": 36, 
+               "name":"Dr. Ahmad Nawaz",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":20,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Ahmad Nawaz has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
+
+      ,{"id": 37, 
+               "name":"Dr. Asif Malik",
+               "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
+               "code":20,
+               "hospital":"P.G.H",
+               "qualification": "N/A",
+               "about" : "Dr. Asif Malik has started his services full-time at PGH.",
+               "contact": "+9291111111091"}
     
     
   ]
