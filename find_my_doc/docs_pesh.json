@@ -2,6 +2,7 @@
   "version": 1,"docs":[{"id": 1,
     "name":"Dr. Abid Salahuddin",
     "code":1,
+    "city":"Peshawar",
     "speciality":"Pediatrician",
     "hospital":"P.G.H",
     "qualification": "MRCP (UK)",
