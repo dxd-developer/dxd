@@ -17,6 +17,7 @@
 {"type" :"ENT Surgeon", "code":16},
 {"type" :"General Surgeon", "code":17},
 {"type" : "Pediatric Surgeon", "code": 18},
-  {"type" : "Plastic Surgeon", "code": 19}
+  {"type" : "Plastic Surgeon", "code": 19},
+  {"type" : "Urologist", "code": 20}
 ]
 }
