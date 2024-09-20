@@ -6,6 +6,7 @@
 {"type" :"Nephrologist", "code":5},
 {"type" :"Endocrinologist", "code":6},
 {"type" :"Pulmonologist", "code":7},
+  {"type" :"Neurosurgeon", "code":8},
 {"type" :"Orthopaedic Surgeon", "code":10},
 {"type" :"Cardiac Surgeon", "code":11},
 {"type" :"Internal Medicine Specialist", "code":12},
