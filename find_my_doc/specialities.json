@@ -15,6 +15,7 @@
 {"type" :"Ophthalmologist", "code":14},
 {"type" :"Dermatologist", "code":15},
 {"type" :"ENT Surgeon", "code":16},
-{"type" :"General Surgeon", "code":17}
+{"type" :"General Surgeon", "code":17},
+{"type" : "Pediatric Surgeon", "code": 18}  
 ]
 }
