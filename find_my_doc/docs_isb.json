@@ -2,6 +2,7 @@
   "version": 1,"docs":[
     {"id": 1,  "name":"Dr. Hadi Mohammad Khan",
       "city": "Islamabad",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/isb/1.jpg",
       "code":17, 
       "hospital":"Shifa International Hospital", 
       "qualification": "MBBS, MD, FACS, DABGM (USA), DABSO(USA)",
@@ -10,6 +11,7 @@
   {"id": 2, 
     "name":"Dr. Ghulam Siddique",
     "city": "Islamabad",
+    "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/isb/2.jpg",
     "code":17, 
     "hospital":"Shifa International Hospital", 
     "qualification": "MBBS, FRCS (UK)",
@@ -18,6 +20,7 @@
   "name":"Dr. Ejaz Ahmed Khan",
   "city": "Islamabad",
   "code":1, 
+  "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/isb/3.jpg",
   "hospital":"Shifa International Hospital", 
   "qualification": "MBBS, DABP (US), DABID (US)",
                "about" : "Having graduated from Agha Khan University Medical College, Karachi. He completed his residency from Shanos Teaching Hospital Gaines Ville, FL, USA and is currently serving as Chief of Pediatrics at Shifa International Hospitals, Islamabad.", "contact": "+92518464646"}]
