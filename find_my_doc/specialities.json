@@ -7,6 +7,7 @@
 {"type" :"Endocrinologist", "code":6},
 {"type" :"Pulmonologist", "code":7},
   {"type" :"Neurosurgeon", "code":8},
+    {"type" :"General Physician", "code":9},
 {"type" :"Orthopaedic Surgeon", "code":10},
 {"type" :"Cardiac Surgeon", "code":11},
 {"type" :"Internal Medicine Specialist", "code":12},
