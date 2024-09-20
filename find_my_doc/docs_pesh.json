@@ -10,6 +10,7 @@
     "about": "He aced his Royal College exams and gained extensive experience across various pediatric fields, including critical care for newborns and children. ",
     "contact": "+9291111111091"},
              {"id": 2, 
+               "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/2.jpg",
                "name":"Dr. Naveed Anwar",
                "city":"Peshawar",
                "code":2,
@@ -19,6 +20,7 @@
                "contact": "+9291111111091"},
      {"id": 3, 
                "name":"Dr. Momin Salahuddin",
+       "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/3.jpg",
                "city":"Peshawar",
                "code":3,
                "hospital":"P.G.H",
@@ -28,6 +30,7 @@
     ,{"id": 4, 
                "name":"Dr. Tanveer Shafqat",
                "city":"Peshawar",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/doc.jpeg",
                "code":4,
                "hospital":"P.G.H",
                "qualification": "N/A",
@@ -36,6 +39,7 @@
     ,{"id": 5, 
                "name":"Dr. Akhtar Ali",
                "city":"Peshawar",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/5.jpg",
                "code":5,
                "hospital":"P.G.H",
                "qualification": "M.B.B.S, MRCP, FRCP",
@@ -44,6 +48,7 @@
     ,{"id": 6, 
                "name":"Dr. A.H. Aamir",
                "city":"Peshawar",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/6.jpg",
                "code":6,
                "hospital":"P.G.H",
                "qualification": "MRCP (UK), FRCP (Edin), FACE (US), CCST",
@@ -52,6 +57,7 @@
          ,{"id": 7, 
                "name":"Dr. Fazia Raza",
                "city":"Peshawar",
+           "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/7.jpg",
                "code":4,
                "hospital":"P.G.H",
                "qualification": "MBBS, FCPS (Pak)",
@@ -60,6 +66,7 @@
      ,{"id": 8, 
                "name":"Dr. Mohammad Asim",
                "city":"Peshawar",
+       "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/8.jpg",
                "code":7,
                "hospital":"P.G.H",
                "qualification": "MBBS, MRCP(UK)",
@@ -68,6 +75,7 @@
      ,{"id": 9, 
                "name":"Dr. Khaleeq Ur Rehman",
                "city":"Peshawar",
+       "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/9.jpg",
                "code":10,
                "hospital":"P.G.H",
                "qualification": "MBBS, FRCPS(UK)",
@@ -79,6 +87,7 @@
                "city":"Peshawar",
                "code":1,
                "hospital":"P.G.H",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/10.jpg",
                "qualification": "MBBS, FCPS (Pak)",
                "about" : "Born in Peshawar in 1972, Dr. Samreen Ahmad graduated from Khyber Medical College in 1996. Following her internship in 1997, she pursued post-graduation in pediatrics from the College of Physicians and Surgeons Pakistan.",
                "contact": "+9291111111091"}
@@ -88,6 +97,7 @@
                "city":"Peshawar",
                "code":11,
                "hospital":"P.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
                "qualification": "MBBS, FRCS (UK)",
                "about" : "Dr. Niaz Ali is a renowned cardiac surgeon in Peshawar, Pakistan. He specializes in treating heart conditions in both adults and children, with a focus on congenital heart defects and corrective surgeries.",
                "contact": "+9291111111091"}
@@ -97,6 +107,7 @@
                "city":"Peshawar",
                "code":12,
                "hospital":"P.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/12.jpg",
                "qualification": "MBBS(KMC), FCPS (Pak)",
                "about" : "Dr. Muhammad Usman is a distinguished Professor of Medicine at Khyber Girls Medical College and Hayat Abad Medical Complex in Peshawar.",
                "contact": "+9291111111091"}
@@ -106,6 +117,7 @@
                "city":"Peshawar",
                "code":13,
                "hospital":"P.G.H",
+       "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/13.jpg",
                "qualification": "MBBS, MCPS, (Family Medicine), DMCH (US)",
                "about" : "Dr. Samina Niaz Khattak practices at P.G.H.",
                "contact": "+9291111111091"}
@@ -115,6 +127,7 @@
                "city":"Peshawar",
                "code":14,
                "hospital":"P.G.H",
+       "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/14.jpg",
                "qualification": "MBBS, FCPS, FRCS(UK)",
                "about" : "Dr. M. Junaid Sethi is a distinguished Ophthalmology consultant at Peshawar General Hospital, renowned for his expertise and dedication to eye care.",
                "contact": "+9291111111091"}
@@ -124,6 +137,7 @@
                "city":"Peshawar",
                "code":15,
                "hospital":"P.G.H",
+       "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/15.jpg",
                "qualification": "MBBS, MRCGP (CCT, UK), MSc Dermatology (Wales, UK)",
                "about" : "Dr. Sofia Khan leverages her dual expertise in Family Medicine and Dermatology to provide comprehensive skin care at Peshawar General Hospital.",
                "contact": "+9291111111091"}
@@ -132,6 +146,7 @@
                "city":"Peshawar",
                "code":12,
                "hospital":"P.G.H",
+  "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/16.jpg",
                "qualification": "MBBS, CPFS (Pak), MRCP(UK)",
                "about" : "Dr. Khalid Mahmood's medical journey began in 1987 at Khyber Medical College. After his FCPS in 1992, he broadened his experience as a registrar in UK hospitals for three years, earning MRCP certification in 1995.",
                "contact": "+9291111111091"}
@@ -141,6 +156,7 @@
                "city":"Peshawar",
                "code":16,
                 "hospital":"P.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/17.jpg",
                "qualification": "MBBS, MCPS, DLO, and FCPS",
                "about" : "Major (R) Prof. Dr. Nazar Muhammad Ayub has established a distinguished career as an ENT specialist, marked by a dedication to patient care, education, and professional development.",
                "contact": "+9291111111091"}
@@ -148,6 +164,7 @@
                "name":"Dr. Zakirullah",
                "city":"Peshawar",
                "code":16,
+       "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/18.jpg",
                "hospital":"P.G.H",
                "qualification": "MBBS, FCPS and MHPE",
                "about" : "Dr. Zakirullah, a highly accomplished otolaryngologist (ENT) and head & neck surgeon, to its esteemed team.",
@@ -156,20 +173,14 @@
       ,{"id": 19, 
                "name":"Dr. Khurshid Ahmad",
                "city":"Peshawar",
+        "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/19.jpg",
                "code":17,
                "hospital":"P.G.H",
                "qualification": "MBBS, FRCS (UK)",
                "about" : "As a Consultant General Surgeon, Prof. Dr. Khurshid Ahmad specializes in abdominal surgery, with a focus on Laparoscopic and Colorectal procedures. ",
                "contact": "+9291111111091"}
 
-    ,{"id": 21, 
-               "name":"Dr. Khurshid Ahmad",
-               "city":"Peshawar",
-               "code":17,
-               "hospital":"P.G.H",
-               "qualification": "MBBS, FRCS (UK)",
-               "about" : "As a Consultant General Surgeon, Prof. Dr. Khurshid Ahmad specializes in abdominal surgery, with a focus on Laparoscopic and Colorectal procedures. ",
-               "contact": "+9291111111091"}
+    
     
   ]
 }
