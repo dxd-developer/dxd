@@ -30,7 +30,7 @@
     ,{"id": 4, 
                "name":"Dr. Tanveer Shafqat",
                "city":"Peshawar",
-      "img_url": https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/doc.jpg",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/doc.jpg",
                "code":4,
                "hospital":"P.G.H",
                "qualification": "N/A",
