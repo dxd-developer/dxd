@@ -368,6 +368,128 @@
                "qualification": "N/A",
                "about" : "Dr. Asif Malik has started his services full-time at PGH.",
                "contact": "+9291111111091"}
+
+    ,{"id": 39, 
+                "name":"Dr. Niaz Ali",
+               "city":"Peshawar",
+               "code":11,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, FRCS (UK)",
+               "about" : "Dr. Niaz Ali is a reknowned cardiac surgeon in Peshawar, Pakistan. He specializes in treating heart conditions in both adults and children, with a focus on congenital heart defects and corrective surgeries.",
+               "contact": "+9291111583880"}
+
+      ,{"id": 40, 
+                "name":"Dr. Muhammad Farid Khan",
+               "city":"Peshawar",
+               "code":11,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, FRCS (UK)",
+               "about" : "Dr. Mohammad Farid Khan is currently working as general/colorectal/laparoscopic surgeon in Northwest General Hospital & Research Centre, Peshawar since 2009.",
+               "contact": "+9291111583880"}
+
+     ,{"id": 41, 
+                "name":"Dr. Muhammad Hanif Afridi",
+               "city":"Peshawar",
+               "code":2,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, MRCP (UK), BSG (member), EASL (member)",
+               "about" : "Dr. Muhammad Hanif Afridi is a Consultant Gastroenterologist at Northwest General Hospital & Research Centre, Peshawar. Dr. Hanif deals with diseases of stomach, intestine, and liver (hepatitis).",
+               "contact": "+9291111583880"}
+
+     ,{"id": 42, 
+                "name":"Dr. Ahmad Fawad",
+               "city":"Peshawar",
+               "code":3,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, MRCP (UK), FRCP (Glasgow)",
+               "about" : "Dr. Ahmad Fawad is a Consultant Interventional Cardiologist and Director of Cath Lab services at Northwest General Hospital & Research Centre.",
+               "contact": "+9291111583880"}
+
+     ,{"id": 43, 
+                "name":"Dr. Zahoor Ahmad",
+               "city":"Peshawar",
+               "code": 11,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, FRCS",
+               "about" : "Dr. Zahoor Ahmad Khan is a Consultant Cardiothoracic Surgeon at Northwest General Hospital & Research Centre, Peshawar. Dr. Zahoor Ahmad performs surgeries of organs located in the thoracic cavity, such as the heart, lungs, etc. ",
+               "contact": "+9291111583880"}
+
+     ,{"id": 44, 
+                "name":"Dr. Obaid Ullah",
+               "city":"Peshawar",
+               "code": 19,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "FCPS, FRCS, ED",
+               "about" : "Dr. Obaidullah is a Plastic & Reconstructive Surgeon at Northwest General Hospital & Research Centre, Peshawar. His department is concerned with the restoration, reconstruction, or alteration of the human body.",
+               "contact": "+9291111583880"}
+
+    
+     ,{"id": 45, 
+                "name":"Dr. Fariha Afzal",
+               "city":"Peshawar",
+               "code": 21,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, FCPS",
+               "about" : "Dr Fariha Afzal is a graduate of Khyber Medical college. She completed her FCPS training in Diagnostic Radiology from Lady Reading Hospital, Peshawar and is a fellow of College of Physicians and Surgeons Pakistan.",
+               "contact": "+9291111583880"}
+
+     ,{"id": 46, 
+                "name":"Dr. Shuja Sherafgun",
+               "city":"Peshawar",
+               "code": 22,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, MRCP(UK), CCT, FRCP",
+               "about" : "Dr. Shuja Sherafgun is a Consultant Rheumatologist at Northwest General Hospital (NWGH). He specialises in treating patients with rheumatological conditions. His areas of interest include early inflammatory arthritis and all aspects of general rheumatology.",
+               "contact": "+9291111583880"}
+
+    
+     ,{"id": 47, 
+                "name":"Dr. Muhammad Arif",
+               "city":"Peshawar",
+               "code": 1,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, MRCP(UK), CCT, FRCP",
+               "about" : "Dr. Mohammad Arif is Consultant Paediatrician at Northwest General Hospital since 2009. As a pioneer consultant Paediatrician and neonatologist Dr. Arif established a General Pediatric ward and the Neonatal unit a NWGH, and was nominated as Head of the Paediatric and Neonatal Services.",
+               "contact": "+9291111583880"}
+
+     ,{"id": 48, 
+                "name":"Dr. Muhammad Hayat",
+               "city":"Peshawar",
+               "code": 23,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, FCPS",
+               "about" : "Dr. Muhammad Hayat is working as a Consultant in Anaesthesiology and Surgical Critical Care at Northwest General Hospital & Research Centre, Peshawar. Dr. Hayat is involved with total perioperative care of patients before, during and after surgery, including Anaesthesia, Intensive Care Medicine, Critical Emergency Medicine, and Pain Medicine.",
+               "contact": "+9291111583880"}
+
+     ,{"id": 49, 
+                "name":"Dr. Mohammad Sajjad Ali Khan",
+               "city":"Peshawar",
+               "code": 12,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, FCPS",
+               "about" : "Dr. Mohammad Sajjad Ali Khan has been an esteemed Assistant Professor at the Department of Medicine at Northwest Teaching Hospital since 2016. He is also a faculty member at the Northwest School of Medicine.",
+               "contact": "+9291111583880"}
+
+      ,{"id": 50, 
+                "name":"Dr. Adnan Khan",
+               "city":"Peshawar",
+               "code": 8,
+               "hospital":"N.W.G.H",
+      "img_url": "https://raw.githubusercontent.com/dxd-developer/dxd/main/find_my_doc/pesh/11.jpg",
+               "qualification": "MBBS, MD (USA), MRCS (UK), ABHS, Fellowship in Paediatric Neurosurgery",
+               "about" : "Dr. Adnan Khan is a Consultant Neurosurgeon at Northwest General Hospital. He is formally trained to manage a wide plethora of cranial and spinal neurological conditions. His areas of interest include surgical neuro-oncology in particular minimal invasive and endoscopic approaches, skull base/vascular and paediatric neurosurgery.",
+               "contact": "+9291111583880"}
     
     
   ]
