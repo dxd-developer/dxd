@@ -20,5 +20,6 @@
   {"type" : "Plastic Surgeon", "code": 19},
   {"type" : "Urologist", "code": 20}
   ,{"type" : "Radiologist", "code": 21}
+  ,{"type" : "Rheumatologist", "code": 22}
 ]
 }
